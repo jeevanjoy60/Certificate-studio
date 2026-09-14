@@ -1,5 +1,7 @@
 # Certificate Studio
 
+**[Download Certificate Studio](https://github.com/jeevanjoy60/Certificate-studio/releases/latest)**
+
 Certificate Studio is a Windows desktop app for creating personalized certificates in bulk using a PDF certificate template and a CSV file.
 
 Built for college clubs, events, workshops, competitions, and organizations.
